@@ -3,3 +3,6 @@ queue-up:
 
 queue-logs:
 	docker logs rabbitmq-server
+
+
+
